@@ -1,0 +1,17 @@
+{
+  "name": "cursed-asm",
+  "version": "1.0.0",
+  "description": "cursed assembler: use at&t syntax on even lines, and Intel syntax on odd lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asm"
+  ],
+  "author": "Palaiologos",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
